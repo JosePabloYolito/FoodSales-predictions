@@ -1,5 +1,5 @@
 # FoodSales-predictions
-This project is about applying all my knowledge of Python Fundamentals and Machine Learning into a sales data base (Hope you enjoy my work!) :)
+This is my 1st project and it is about applying all my knowledge of Python Fundamentals and Machine Learning into a sales data base (Hope you enjoy my work!) :)
 
 In this Repository you will se how I cleaned the data base to show some visualizations and also the use of Machine Learning to predict sales. 
 Inside the Zip File, you will find a Jupyter Notebook with my codes for this proyect, a presentation of my results and a PowerPoint of the presentation (important to highlight that te Powerpoint and the presentation video are in Spanish).
